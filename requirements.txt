@@ -1,0 +1,5 @@
+torch
+ultralytics
+norfair
+opencv-python
+numpy
